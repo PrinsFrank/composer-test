@@ -1,0 +1,7 @@
+{
+    "name": "prinsfrank/composer-test",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "require": {}
+}
